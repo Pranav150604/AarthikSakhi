@@ -26,7 +26,6 @@ Built with **Next.js** and **AI**, this open-source template helps developers sp
 - **State**: Redux Toolkit  
 - **Database**: MongoDB (Mongoose)  
 - **AI**: OpenAI (GPT-4)  
-- **Deploy**: Vercel (config included)  
 
 ---
 
