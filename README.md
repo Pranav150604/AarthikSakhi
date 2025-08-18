@@ -1,6 +1,6 @@
-# FinanceGPT
+# AarthikSakhi
 
-FinanceGPT helps you take control of your finances. It offers personalized financial advice—similar to consulting with a human advisor. With features like AI chat, financial snapshotting, and goal planning, FinanceGPT helps you set, track, and achieve your financial goals.
+AarthikSakhi helps you take control of your finances. It offers personalized financial advice—similar to consulting with a human advisor. With features like AI chat, financial snapshotting, and goal planning, AarthikSakhi helps you set, track, and achieve your financial goals.
 
 Built with **Next.js** and **AI**, this open-source template helps developers spin up their own financial advisor apps quickly.
 
